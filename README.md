@@ -5,4 +5,4 @@ The dashboard allows automatic watering of indoor and outdoor garden like a vege
 It allows the watering of your plants through multiple methods like the reading of humidity sensors, a timer function to water them at a distinct time or to activate 
 it manualy.
 
-![alt text](https://github.com/andreas-repo/Home_garden/master/Home Garden.jpg?raw=true)
+![alt text](https://github.com/andreas-repo/Home_garden/master/HomeGarden.jpg?raw=true)
